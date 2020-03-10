@@ -55,8 +55,8 @@ though the WHO data is more "official"
 [2020.03.05](updates/2020.03/05.md) /
 [2020.03.06](updates/2020.03/06.md) /
 [2020.03.07](updates/2020.03/07.md) /
-[2020.03.07](updates/2020.03/08.md) /
-[2020.03.07](updates/2020.03/09.md)
+[2020.03.08](updates/2020.03/08.md) /
+[2020.03.09](updates/2020.03/09.md)
 
 
 ----
